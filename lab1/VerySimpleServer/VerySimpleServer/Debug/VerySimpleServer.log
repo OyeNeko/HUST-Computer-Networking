@@ -1,0 +1,12 @@
+﻿  Config.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+E:\文件\计算机网络\新建文件夹 (2)\lab1\VerySimpleServer\VerySimpleServer\Config.cpp(24,14): warning C4244: “初始化”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+  Http.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  Server.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+E:\文件\计算机网络\新建文件夹 (2)\lab1\VerySimpleServer\VerySimpleServer\Server.cpp(12,14): warning C4244: “初始化”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+E:\文件\计算机网络\新建文件夹 (2)\lab1\VerySimpleServer\VerySimpleServer\Server.cpp(24,12): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\文件\计算机网络\新建文件夹 (2)\lab1\VerySimpleServer\VerySimpleServer\Server.cpp(69,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码...
+  VerySimpleServer.vcxproj -> E:\文件\计算机网络\新建文件夹 (2)\lab1\VerySimpleServer\Debug\VerySimpleServer.exe
